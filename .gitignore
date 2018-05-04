@@ -1,32 +1,17 @@
-# Project
+node_modules/*
+.vscode/*
+.eslintignore
+.eslintrc.json
+logs
+results
+npm-debug.log
 .idea
-
-# Node
-node_modules
-
-# macOS
-.DS_Store
-.AppleDouble
-.LSOverride
-Icon
-._*
-.Spotlight-V100
-.Trashes
-
-## Windows
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
-
-# Package Managers
 yarn-error.log
-npm-debug.log
-
-# Cache
 .awcache
-
-# Build Generated
 vendor/vendor.js
 vendor/vendor.map
 vendor/vendor-manifest.json
